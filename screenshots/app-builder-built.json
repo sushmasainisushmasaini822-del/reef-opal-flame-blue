@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Circle Call",
+      "hasCanvas": false,
+      "bodyTextLen": 2998,
+      "bodyTextHash": "b08284cf3ae2b2639797326df424edfa128325d70d2ef0fde46c73279c8844a7",
+      "bodyTextPrefix": "Skip to content CIRCLE CALL Playbook Roles Maps Loadouts HUD FFW",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Circle Call",
+      "hasCanvas": false,
+      "bodyTextLen": 2956,
+      "bodyTextHash": "b35363764884df133bff1a404145d0b76c3174e865a68bcf88eb85b7168d9cce",
+      "bodyTextPrefix": "Skip to content CIRCLE CALL FFWS · FFPL · EWC CIRCLE CALL THE FR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
